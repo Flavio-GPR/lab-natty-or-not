@@ -13,6 +13,8 @@ Utilizei o "Copilot" para revisar minha pesquisa sobre IAs Generativas, estrutur
 
 ## 🚀 Resultados
 O texto apresenta um conteúdo introdutório para quem não tem conhecimento sobre o assunto e pretende ter uma noção inicial, com os conceitos básicos e de forma resumida, demonstrando como a IA Genativa pode ser uma ferramenta poderosa.
+Link para acessar o documento: [A jornada da IA - Um Passeio pelo Futuro](https://github.com/Flavio-GPR/lab-natty-or-not/blob/c1a74a1d994eb696f30af9f4e65d5b00ad7cb82c/Doc/A%20Jornada%20da%20IA%20-%20Um%20Passeio%20pelo%20Futuro.pdf)
+
 
 ## 💭 Reflexão 
 Procure imaginar como a IA Generativa pode ser útil no nosso dia-a-dia e como pode ser aplicada em diferentes contextos.
